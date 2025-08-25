@@ -1,0 +1,5 @@
+{
+  "name": "AI Customer Segment Analyzer",
+  "description": "An interactive tool that uses K-Means clustering to identify distinct customer segments from shopping or banking data. It visualizes the segments and uses AI to generate targeted marketing insights for each group.",
+  "requestFramePermissions": []
+}
